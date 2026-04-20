@@ -1,0 +1,25 @@
+h1 {
+    font-family:Arial, Helvetica, sans-serif;
+    color:#546aa3
+}
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:aliceblue;
+    background-color: #476974;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+body {
+    background-color: #d8c5b1;
+}
+.custom-box {
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    border: 5px solid #0b142c;
+    padding: 10px;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
